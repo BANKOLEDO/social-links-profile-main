@@ -40,7 +40,7 @@ Mobile View
 ### Links
 
 - Solution URL: [My Solution](https://github.com/BANKOLEDO/social-links-profile-main)
-- Live Site URL: [Page Preview](https://your-live-site-url.com)
+- Live Site URL: [Page Preview](https://bankoledo.github.io/social-links-profile-main/)
 
 ## My process
 
