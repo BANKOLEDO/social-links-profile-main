@@ -26,15 +26,15 @@ Users should be able to:
 
 Desktop View
 
-![](./assets/images/Screenshot%20(122).png)
+![](./assets/images/Screenshot%20(125).png)
 
 Active Desktop View
 
-![](./assets/images/Screenshot%20(123).png)
+![](./assets/images/Screenshot%20(126).png)
 
 Mobile View
 
-![](./assets/images/Screenshot%20(124).png)
+![](./assets/images/Screenshot%20(127).png)
 
 
 ### Links
